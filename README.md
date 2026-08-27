@@ -18,4 +18,5 @@ ARItube is a lightweight Python Tkinter GUI application for downloading YouTube 
    git clone \[https://github.com/ArisuX101/ARItube.git](https://github.com/ArisuX101/ARItube.git)
    cd ARItube
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]([https://ko-fi.com/arius101](https://ko-fi.com/arius101))
+## ☕ Support
+[![Support me on Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20My%20Work-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/arius101)
